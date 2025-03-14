@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hra", "nemamRadDana\Hra.csproj", "{11A60913-E211-46B8-88AA-A7EBBF5AEAFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "faktale", "faktale\faktale.csproj", "{3A8C872B-1BF5-47DC-80F3-B9B75AE457AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11A60913-E211-46B8-88AA-A7EBBF5AEAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11A60913-E211-46B8-88AA-A7EBBF5AEAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11A60913-E211-46B8-88AA-A7EBBF5AEAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11A60913-E211-46B8-88AA-A7EBBF5AEAFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A8C872B-1BF5-47DC-80F3-B9B75AE457AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A8C872B-1BF5-47DC-80F3-B9B75AE457AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A8C872B-1BF5-47DC-80F3-B9B75AE457AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A8C872B-1BF5-47DC-80F3-B9B75AE457AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC86BA11-5542-485C-ABC4-E7FC1CDA6BD8}
+	EndGlobalSection
+EndGlobal

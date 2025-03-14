@@ -1,0 +1,10 @@
+G:\PRP3\nemamRadDana\nemamRadDana\bin\Debug\nemamRadDana.exe.config
+G:\PRP3\nemamRadDana\nemamRadDana\bin\Debug\nemamRadDana.exe
+G:\PRP3\nemamRadDana\nemamRadDana\bin\Debug\nemamRadDana.pdb
+G:\PRP3\nemamRadDana\nemamRadDana\obj\Debug\Hra.csproj.AssemblyReference.cache
+G:\PRP3\nemamRadDana\nemamRadDana\obj\Debug\Hra.csproj.SuggestedBindingRedirects.cache
+G:\PRP3\nemamRadDana\nemamRadDana\obj\Debug\nemamRadDana.Properties.Resources.resources
+G:\PRP3\nemamRadDana\nemamRadDana\obj\Debug\Hra.csproj.GenerateResource.cache
+G:\PRP3\nemamRadDana\nemamRadDana\obj\Debug\Hra.csproj.CoreCompileInputs.cache
+G:\PRP3\nemamRadDana\nemamRadDana\obj\Debug\nemamRadDana.exe
+G:\PRP3\nemamRadDana\nemamRadDana\obj\Debug\nemamRadDana.pdb
